@@ -1,0 +1,10 @@
+pandas
+scipy 
+streamlit
+openai
+gtts 
+sounddevice
+audiofile
+pyttsx3
+keyboard
+playsound
